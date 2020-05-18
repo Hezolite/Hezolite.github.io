@@ -42,7 +42,7 @@ hr {
   justify-content: center;
   width: 100%;
   height: 100vh;
-  background: url('/Mogo/Assets/Images/Intro.jpg') center no-repeat;
+  background: url('Mogo/Assets/Images/Intro.jpg') center no-repeat;
   background-size: cover;
   -webkit-background-size: cover;
 }
